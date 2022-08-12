@@ -1,0 +1,15 @@
+C:\Git_T\C1DZ\d_z6\obj\Debug\net6.0\d_z6.csproj.AssemblyReference.cache
+C:\Git_T\C1DZ\d_z6\obj\Debug\net6.0\d_z6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git_T\C1DZ\d_z6\obj\Debug\net6.0\d_z6.AssemblyInfoInputs.cache
+C:\Git_T\C1DZ\d_z6\obj\Debug\net6.0\d_z6.AssemblyInfo.cs
+C:\Git_T\C1DZ\d_z6\obj\Debug\net6.0\d_z6.csproj.CoreCompileInputs.cache
+C:\Git_T\C1DZ\d_z6\bin\Debug\net6.0\d_z6.exe
+C:\Git_T\C1DZ\d_z6\bin\Debug\net6.0\d_z6.deps.json
+C:\Git_T\C1DZ\d_z6\bin\Debug\net6.0\d_z6.runtimeconfig.json
+C:\Git_T\C1DZ\d_z6\bin\Debug\net6.0\d_z6.dll
+C:\Git_T\C1DZ\d_z6\bin\Debug\net6.0\d_z6.pdb
+C:\Git_T\C1DZ\d_z6\obj\Debug\net6.0\d_z6.dll
+C:\Git_T\C1DZ\d_z6\obj\Debug\net6.0\refint\d_z6.dll
+C:\Git_T\C1DZ\d_z6\obj\Debug\net6.0\d_z6.pdb
+C:\Git_T\C1DZ\d_z6\obj\Debug\net6.0\d_z6.genruntimeconfig.cache
+C:\Git_T\C1DZ\d_z6\obj\Debug\net6.0\ref\d_z6.dll
